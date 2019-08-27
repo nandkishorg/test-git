@@ -1,0 +1,162 @@
+@media screen and (max-width:1920px) {
+}
+@media screen and (max-width:1440px) {
+	.navbar-nav>li>a {
+		padding-right: 20px;
+	}
+	.berkeley-dec h2 {
+		font-size: 150px;
+	}
+	section.partners .container {
+		width: 80%;
+	}
+	.container {
+		width: 80%;
+	}
+	.arrows {
+		left: 50px;
+	}
+	.arrows-next {
+		right: 50px;
+	}
+}
+@media screen and (max-width:1280px) {
+	.partners-logo div {
+		width: 140px;
+		height: 140px;
+	}
+}
+@media screen and (max-width:1024px) {
+	.berkeley-dec h2 {
+		font-size: 120px;
+	}
+	.berkeley-dec h2 span small {
+		font-size: 12px;
+		line-height: 16px;
+	}
+	.navbar-nav>li>a {
+		padding-right: 10px;
+	}
+	h1.heading span:before, h2.heading span:before {
+		left: 70%;
+	}
+}
+@media screen and (max-width:768px) {
+	.banner-text h1 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.banner-text {
+		left: 0;
+		right: 0;
+		text-align: center;
+		transform: translate(0);
+		transform: translateY(-50%);
+	}
+	.circle-icon {
+		float: inherit;
+		display: inline-block;
+	}
+	h6.circle {
+		display: inline-block;
+	}
+	.future-con {
+		border-right: 0;
+		width: auto;
+		height: auto
+	}
+	.future-con-desc {
+		width: 65%;
+	}
+	.future-sec {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.container {
+		width: 90%;
+	}
+	.abt-img {
+		margin-top: 40px;
+	}
+	.nav-tabs {
+		display: block;
+	}
+	.nav-tabs>li a {
+		margin-bottom: 0;
+	}
+	.investors-content {
+		width: 100%;
+		margin-top: 50px;
+	}
+	.partners-content {
+		width: 100%;
+	}
+	.partners-logo div {
+		float: inherit;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	h2.heading {
+		font-size: 32px;
+	}
+	h1.heading {
+		font-size: 34px;
+		margin-bottom: 24px;
+	}
+	.about-sec, .csr-sec, section.common, .portfolio-sec1, .investors, .partners, .news_press, .contact-sec, .subscribe, .overview-sec, .investors-sec, .our-service {
+		padding: 50px 0;
+	}
+	.footer-copy-right {
+		text-align: center;
+		line-height: 12px;
+	}
+	.footer-logo {
+		text-align: center;
+		line-height: 12px;
+	}
+	.footer-copy-right {
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.media-left img, .media-right img {
+		width: 100px;
+	}
+	.brief {
+		width: 100%;
+	}
+	.sub-title h1 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	h1.heading span:before, h2.heading span:before {
+		left: 58%;
+	}
+	.investors-sec .brief, .membership-sec .brief, .conference-sec .brief {
+		width: 100%;
+	}
+	.border-right {
+		border-right: 0;
+	}
+	.partners-logo img {
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.partners-con {
+		margin-bottom: 40px;
+	}
+	.careers-con {
+		padding: 20px;
+	}
+	p {
+		font-size: 16px;
+	}
+	.careers-desc ul li {
+		font-size: 16px;
+	}
+	.berkeley-dec h2 span {
+		width: 50%;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 65px;
+	}
+}
